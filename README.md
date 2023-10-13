@@ -5,9 +5,9 @@ This Python project focuses on credit card fraud detection using machine learnin
 ## Data Sources
 The project utilizes two main datasets:
 
-1. `application_record.csv`: Contains information about customers, including demographics, education, housing, and employment details.
+1. [`application_record.csv`](https://huggingface.co/datasets/liberatoratif/Credit-card-fraud-detection/tree/main): Contains information about customers, including demographics, education, housing, and employment details.
 
-2. `credit_record.csv`: Contains records of credit card usage, including monthly balances and statuses.
+2. [`credit_record.csv`](https://huggingface.co/datasets/liberatoratif/Credit-card-fraud-detection/tree/main): Contains records of credit card usage, including monthly balances and statuses.
 
 ## Data Preprocessing
 To prepare the data for machine learning models, the following preprocessing steps were performed:
