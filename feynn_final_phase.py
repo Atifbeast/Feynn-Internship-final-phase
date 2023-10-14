@@ -55,7 +55,7 @@ with open("occ.txt") as o:
     occu = o.read().splitlines()
 
 
-st.markdown("<h1 style='text-align: centre; color: yellow;'>Banking Fraud Detection</h1>",
+st.markdown("<h1 style='text-align: centre; color: red;'>Banking Fraud Detection</h1>",
                 unsafe_allow_html=True)
 
 final_lst = []
