@@ -36,7 +36,7 @@ with open("scaler_dob.pkl", 'rb') as model_file3:
 with open("scaler_days.pkl", 'rb') as model_file4:
     loaded_scaler_days = pickle.load(model_file4)
 
-with open("C:\\Users\\ATIF SHAIK\\feynn_data\\scaler_occ.pkl", 'rb') as model_file5:
+with open("scaler_occ.pkl", 'rb') as model_file5:
     loaded_scaler_occ = pickle.load(model_file5)
 
 with open("scaler_cnt.pkl", 'rb') as model_file6:
