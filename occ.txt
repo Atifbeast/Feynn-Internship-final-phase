@@ -1,0 +1,18 @@
+Laborers
+Security staff
+Managers
+Cleaning staff
+Sales staff
+Core staff
+Medicine staff
+Drivers
+High skill tech staff
+Accountants
+Low-skill Laborers
+Cooking staff
+Waiters/barmen staff
+Private service staff
+Secretaries
+HR staff
+IT staff
+Realty agents
