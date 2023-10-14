@@ -22,36 +22,36 @@ status_dict = {
 }
 
 
-with open("C:\\Users\\ATIF SHAIK\\feynn_data\\ensemble_model.pkl", 'rb') as model_file:
+with open("ensemble_model.pkl", 'rb') as model_file:
     loaded_ensemble_model = pickle.load(model_file)
 
 
 
-with open("C:\\Users\\ATIF SHAIK\\feynn_data\\scaler_amt.pkl", 'rb') as model_file2:
+with open("scaler_amt.pkl", 'rb') as model_file2:
     loaded_scaler_amt = pickle.load(model_file2)
 
-with open("C:\\Users\\ATIF SHAIK\\feynn_data\\scaler_dob.pkl", 'rb') as model_file3:
+with open("scaler_dob.pkl", 'rb') as model_file3:
     loaded_scaler_dob = pickle.load(model_file3)
 
-with open("C:\\Users\\ATIF SHAIK\\feynn_data\\scaler_days.pkl", 'rb') as model_file4:
+with open("scaler_days.pkl", 'rb') as model_file4:
     loaded_scaler_days = pickle.load(model_file4)
 
 with open("C:\\Users\\ATIF SHAIK\\feynn_data\\scaler_occ.pkl", 'rb') as model_file5:
     loaded_scaler_occ = pickle.load(model_file5)
 
-with open("C:\\Users\\ATIF SHAIK\\feynn_data\\scaler_cnt.pkl", 'rb') as model_file6:
+with open("scaler_cnt.pkl", 'rb') as model_file6:
     loaded_scaler_cnt = pickle.load(model_file6)
 
-with open("C:\\Users\\ATIF SHAIK\\feynn_data\\scaler_mon.pkl", 'rb') as model_file7:
+with open("scaler_mon.pkl", 'rb') as model_file7:
     loaded_scaler_mon = pickle.load(model_file7)
 
 
 
-with open("C:\\Users\\ATIF SHAIK\\feynn_data\\label_encoder_occ.pkl", 'rb') as model_file8:
+with open("label_encoder_occ.pkl", 'rb') as model_file8:
     loaded_encoder_occ = pickle.load(model_file8)
 
 
-with open("C:\\Users\\ATIF SHAIK\\feynn_data\\occ.txt") as o:
+with open("occ.txt") as o:
     occu = o.read().splitlines()
 
 
