@@ -1,5 +1,5 @@
 # Credit Card Fraud Detection Project
-
+link to my app -> https://feynn-internship-final-phase-aruj6hgbwprtjuu2xfemyw.streamlit.app/
 This Python project focuses on credit card fraud detection using machine learning and data preprocessing techniques. It aims to identify potentially fraudulent credit card transactions to help financial institutions and credit card companies prevent fraudulent activities.
 
 ## Data Sources
